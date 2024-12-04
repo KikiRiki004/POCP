@@ -1,0 +1,3 @@
+/Users/User/Desctop/Uni code/FinalPOCP/cmake-build-debug/CMakeFiles/FinalPOCP.dir
+/Users/User/Desctop/Uni code/FinalPOCP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/User/Desctop/Uni code/FinalPOCP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
